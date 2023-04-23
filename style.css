@@ -57,3 +57,35 @@ textarea:focus {
     color: #0A3871;
     border: none;
 }
+
+#buttonarea button {
+    width: 328px;
+    height: 67px;
+
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 24px;
+    gap: 8px;
+
+    border-radius: 24px;
+
+}
+
+#into {
+    margin-top: 750px;
+    margin-left: 230px;
+
+    background-color: #0A3871;
+
+}
+
+#out {
+    margin-top: -67px;
+    margin-left: 580px;
+
+    background-color: transparent;
+    border-color: #0A3871;
+    border
+
+}
